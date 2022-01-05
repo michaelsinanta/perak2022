@@ -1,3 +1,10 @@
+Tugas Khusus Web Development Perak 2022
+Nama : Michael Christlambert Sinanta
+NPM : 2106750414
+Fakultas : Ilmu Komputer
+Jurusan : Ilmu Komputer
+Angkatan : 2021
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
